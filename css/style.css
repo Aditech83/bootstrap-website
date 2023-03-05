@@ -1,0 +1,9 @@
+.navcustom{
+    width: 100%;
+}
+.text-light:hover{
+    background-color: blue;
+    color: black;
+    border-radius: 5px;
+    border-bottom: 2px solid white;
+}
